@@ -1,0 +1,10 @@
+body{
+    background_color:lightblue;
+}
+h1{
+    color:rgb(167, 104, 21);
+    background_color:royalblue;
+    padding:20px;
+    border:2px solid black;
+    text-align:center;
+}
